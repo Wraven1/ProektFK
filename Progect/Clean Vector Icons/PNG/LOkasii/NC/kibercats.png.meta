@@ -1,0 +1,1418 @@
+fileFormatVersion: 2
+guid: 2667b9ed97d8bff488a200e63a365db2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -787292559549107383
+    second: kibercats_0
+  - first:
+      213: 2029243267300358418
+    second: kibercats_1
+  - first:
+      213: -4624762846634059993
+    second: kibercats_2
+  - first:
+      213: -6382435765246446310
+    second: kibercats_3
+  - first:
+      213: -831955884445648142
+    second: kibercats_4
+  - first:
+      213: 6381267003910560297
+    second: kibercats_5
+  - first:
+      213: 6823032066364908443
+    second: kibercats_6
+  - first:
+      213: 303831164406380881
+    second: kibercats_7
+  - first:
+      213: 1695212980777001975
+    second: kibercats_8
+  - first:
+      213: 4922051794026108614
+    second: kibercats_9
+  - first:
+      213: 4094432748546408969
+    second: kibercats_10
+  - first:
+      213: 4937023622520047488
+    second: kibercats_11
+  - first:
+      213: 1718018811008558142
+    second: kibercats_12
+  - first:
+      213: 2365357095983759254
+    second: kibercats_13
+  - first:
+      213: -5387405669959409891
+    second: kibercats_14
+  - first:
+      213: 8256179441118152252
+    second: kibercats_15
+  - first:
+      213: 4709155239762494484
+    second: kibercats_16
+  - first:
+      213: 179560761990849907
+    second: kibercats_17
+  - first:
+      213: -4731310801436447620
+    second: kibercats_18
+  - first:
+      213: -4614410491465890096
+    second: kibercats_19
+  - first:
+      213: 7025678750889901854
+    second: kibercats_20
+  - first:
+      213: 1043554568817967278
+    second: kibercats_21
+  - first:
+      213: -1279432982918034899
+    second: kibercats_22
+  - first:
+      213: 1669867196628492458
+    second: kibercats_23
+  - first:
+      213: -4051920916535953058
+    second: kibercats_24
+  - first:
+      213: 8869000911761758121
+    second: kibercats_25
+  - first:
+      213: 8910078176869761766
+    second: kibercats_26
+  - first:
+      213: 331351547912433467
+    second: kibercats_27
+  - first:
+      213: -5698904471413303145
+    second: kibercats_28
+  - first:
+      213: -2581788217727544932
+    second: kibercats_29
+  - first:
+      213: -1250409418611706583
+    second: kibercats_30
+  - first:
+      213: -3445941319431066421
+    second: kibercats_31
+  - first:
+      213: -3856595902549147956
+    second: kibercats_32
+  - first:
+      213: 4403085104962661461
+    second: kibercats_33
+  - first:
+      213: -8754251074889839514
+    second: kibercats_34
+  - first:
+      213: 7130647806581706068
+    second: kibercats_35
+  - first:
+      213: -1549493713283960465
+    second: kibercats_36
+  - first:
+      213: -5118532139655219248
+    second: kibercats_37
+  - first:
+      213: -7501866177038928849
+    second: kibercats_38
+  - first:
+      213: 2518723113243057591
+    second: kibercats_39
+  - first:
+      213: 7483878302112991811
+    second: kibercats_40
+  - first:
+      213: -8675124515341145449
+    second: kibercats_41
+  - first:
+      213: -4989425486912786050
+    second: kibercats_42
+  - first:
+      213: -524733031484556883
+    second: kibercats_43
+  - first:
+      213: -102237749988396615
+    second: kibercats_44
+  - first:
+      213: 1855279128276907539
+    second: kibercats_45
+  - first:
+      213: -4312827835488059617
+    second: kibercats_46
+  - first:
+      213: -2960196818216885747
+    second: kibercats_47
+  - first:
+      213: -3691524060666472192
+    second: kibercats_48
+  - first:
+      213: 7783649946591598540
+    second: kibercats_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kibercats_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94374cd9699f215f0800000000000000
+      internalID: -787292559549107383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2197a4e0002592c10800000000000000
+      internalID: 2029243267300358418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727d3fba1ba81dfb0800000000000000
+      internalID: -4624762846634059993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15bcb2bc780d67a0800000000000000
+      internalID: -6382435765246446310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa32dee78c4474f0800000000000000
+      internalID: -831955884445648142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a9209d780de8850800000000000000
+      internalID: 6381267003910560297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93a7cea38740be50800000000000000
+      internalID: 6823032066364908443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159b22295dc673400800000000000000
+      internalID: 303831164406380881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 190
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f328d1793b968710800000000000000
+      internalID: 1695212980777001975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 190
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6100d4704ae4440800000000000000
+      internalID: 4922051794026108614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 190
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902c5dd34e852d830800000000000000
+      internalID: 4094432748546408969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 190
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0870504c3d4d38440800000000000000
+      internalID: 4937023622520047488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 190
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34aa939101a7d710800000000000000
+      internalID: 1718018811008558142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 190
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fbf012fbf63d020800000000000000
+      internalID: 2365357095983759254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 190
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fd42d36171c35b0800000000000000
+      internalID: -5387405669959409891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 190
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360bb56577d39270800000000000000
+      internalID: 8256179441118152252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 138
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414863a8db74a5140800000000000000
+      internalID: 4709155239762494484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 138
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375201acf8ded7200800000000000000
+      internalID: 179560761990849907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 75
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c6966c4e1075eb0800000000000000
+      internalID: -4731310801436447620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_19
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 75
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d607503b1256ffb0800000000000000
+      internalID: -4614410491465890096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f7dcca999308160800000000000000
+      internalID: 7025678750889901854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 12
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea08122f9537b7e00800000000000000
+      internalID: 1043554568817967278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a80431b7a8e3ee0800000000000000
+      internalID: -1279432982918034899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 4
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa06e153e5f8c2710800000000000000
+      internalID: 1669867196628492458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 4
+        width: 57
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5622751, y: 0.5154334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5936e7f46fa4c7c0800000000000000
+      internalID: -4051920916535953058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7dc2ad655051b70800000000000000
+      internalID: 8869000911761758121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_26
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2484de4e4f6ab70800000000000000
+      internalID: 8910078176869761766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_27
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fa81d2a72399400800000000000000
+      internalID: 331351547912433467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_28
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 75
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798568cc39c69e0b0800000000000000
+      internalID: -5698904471413303145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_29
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 139
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c919f0d7b45ab2cd0800000000000000
+      internalID: -2581788217727544932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 75
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925b8db3247a5aee0800000000000000
+      internalID: -1250409418611706583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_31
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 138
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc687a90ae8d20d0800000000000000
+      internalID: -3445941319431066421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 71
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceb452b57e9a7ac0800000000000000
+      internalID: -3856595902549147956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_33
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 136
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cec1d0396ea1d30800000000000000
+      internalID: 4403085104962661461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 71
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c0c968707a28680800000000000000
+      internalID: -8754251074889839514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_35
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 136
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d88b9766625f260800000000000000
+      internalID: 7130647806581706068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 72
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6132066da71f7ae0800000000000000
+      internalID: -1549493713283960465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 137
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d73e6c532257f8b0800000000000000
+      internalID: -5118532139655219248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_38
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 215
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24b315657404e790800000000000000
+      internalID: -7501866177038928849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_39
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 215
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd1b64a35d44f220800000000000000
+      internalID: 2518723113243057591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_40
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 214
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ac2bb1aa31cd760800000000000000
+      internalID: 7483878302112991811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_41
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 214
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aeec05734cb9780800000000000000
+      internalID: -8675124515341145449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 214
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71784b64fff1cab0800000000000000
+      internalID: -4989425486912786050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 255
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9f2788616c7b8f0800000000000000
+      internalID: -524733031484556883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 249
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b17e4dde47c49ef0800000000000000
+      internalID: -102237749988396615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 243
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316342899864fb910800000000000000
+      internalID: 1855279128276907539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 237
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f31581fe1c524c0800000000000000
+      internalID: -4312827835488059617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 230
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02e0f87da44be6d0800000000000000
+      internalID: -2960196818216885747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 230
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009da24ec6215ccc0800000000000000
+      internalID: -3691524060666472192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibercats_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 235
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7949a0364150c60800000000000000
+      internalID: 7783649946591598540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitik
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 246
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c40d9725bf7104bb6881907691340a
+      internalID: 1212181018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kibercats_16: 4709155239762494484
+      kibercats_33: 4403085104962661461
+      kibercats_15: 8256179441118152252
+      kibercats_10: 4094432748546408969
+      kibercats_4: -831955884445648142
+      kibercats_26: 8910078176869761766
+      kibercats_37: -5118532139655219248
+      kibercats_27: 331351547912433467
+      kibercats_17: 179560761990849907
+      kibercats_41: -8675124515341145449
+      kibercats_46: -4312827835488059617
+      kibercats_7: 303831164406380881
+      kibercats_28: -5698904471413303145
+      kibercats_25: 8869000911761758121
+      kibercats_44: -102237749988396615
+      kibercats_36: -1549493713283960465
+      kibercats_3: -6382435765246446310
+      kibercats_14: -5387405669959409891
+      Bitik: 1212181018
+      kibercats_30: -1250409418611706583
+      kibercats_32: -3856595902549147956
+      kibercats_47: -2960196818216885747
+      kibercats_23: 1669867196628492458
+      kibercats_29: -2581788217727544932
+      kibercats_18: -4731310801436447620
+      kibercats_9: 4922051794026108614
+      kibercats_6: 6823032066364908443
+      kibercats_12: 1718018811008558142
+      kibercats_13: 2365357095983759254
+      kibercats_21: 1043554568817967278
+      kibercats_34: -8754251074889839514
+      kibercats_2: -4624762846634059993
+      kibercats_22: -1279432982918034899
+      kibercats_11: 4937023622520047488
+      kibercats_19: -4614410491465890096
+      kibercats_0: -787292559549107383
+      kibercats_45: 1855279128276907539
+      kibercats_31: -3445941319431066421
+      kibercats_48: -3691524060666472192
+      kibercats_35: 7130647806581706068
+      kibercats_40: 7483878302112991811
+      kibercats_24: -4051920916535953058
+      kibercats_39: 2518723113243057591
+      kibercats_20: 7025678750889901854
+      kibercats_49: 7783649946591598540
+      kibercats_42: -4989425486912786050
+      kibercats_8: 1695212980777001975
+      kibercats_43: -524733031484556883
+      kibercats_1: 2029243267300358418
+      kibercats_38: -7501866177038928849
+      kibercats_5: 6381267003910560297
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

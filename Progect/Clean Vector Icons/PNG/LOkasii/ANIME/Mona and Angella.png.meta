@@ -1,0 +1,821 @@
+fileFormatVersion: 2
+guid: 415e7d60ba1f0374aa668781a7bf865f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2163108115320129517
+    second: Mona and Angella_0
+  - first:
+      213: 7645395977267000101
+    second: Mona and Angella_1
+  - first:
+      213: 8882762872814600186
+    second: Mona and Angella_2
+  - first:
+      213: 8097527139699273288
+    second: Mona and Angella_3
+  - first:
+      213: 4585192044835059128
+    second: Mona and Angella_4
+  - first:
+      213: 8979856567555118506
+    second: Mona and Angella_5
+  - first:
+      213: 4193025007187971930
+    second: Mona and Angella_6
+  - first:
+      213: 247032610485749774
+    second: Mona and Angella_7
+  - first:
+      213: 7613398146230973112
+    second: Mona and Angella_8
+  - first:
+      213: -8857290343910202092
+    second: Mona and Angella_9
+  - first:
+      213: -5935295496067070766
+    second: Mona and Angella_10
+  - first:
+      213: -4458634478824561976
+    second: Mona and Angella_11
+  - first:
+      213: 4992938326634294617
+    second: Mona and Angella_12
+  - first:
+      213: 7037670128901775174
+    second: Mona and Angella_13
+  - first:
+      213: -5405493900134271456
+    second: Mona and Angella_14
+  - first:
+      213: 6470817450338271047
+    second: Mona and Angella_15
+  - first:
+      213: -8951408622430210488
+    second: Mona and Angella_16
+  - first:
+      213: -2277629951847402464
+    second: Mona and Angella_17
+  - first:
+      213: 6628516852085210331
+    second: Mona and Angella_18
+  - first:
+      213: 8159822082123572016
+    second: Mona and Angella_19
+  - first:
+      213: -1948178279920279180
+    second: Mona and Angella_20
+  - first:
+      213: 343933638500629758
+    second: Mona and Angella_21
+  - first:
+      213: 6399962414444279658
+    second: Mona and Angella_22
+  - first:
+      213: 400825871577691874
+    second: Mona and Angella_23
+  - first:
+      213: 2014976139469549811
+    second: Mona and Angella_24
+  - first:
+      213: -2787429286907126704
+    second: Mona and Angella_25
+  - first:
+      213: 1872467667558961555
+    second: Mona and Angella_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mona and Angella_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 215
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318349731a81bf1e0800000000000000
+      internalID: -2163108115320129517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 210
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52333306227e91a60800000000000000
+      internalID: 7645395977267000101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 201
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff742a15c9e54b70800000000000000
+      internalID: 8882762872814600186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 200
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e2cd0f702306070800000000000000
+      internalID: 8097527139699273288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 199
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b537531fdfd1af30800000000000000
+      internalID: 4585192044835059128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 226
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5d41b88fbde9c70800000000000000
+      internalID: 8979856567555118506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 203
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fc4c7470e903a30800000000000000
+      internalID: 4193025007187971930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 214
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08c0f3b9d2ad6300800000000000000
+      internalID: 247032610485749774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 160
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2f6b7c64938a960800000000000000
+      internalID: 7613398146230973112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 159
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4152cb23c55941580800000000000000
+      internalID: -8857290343910202092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_10
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 213
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d442ff513891ada0800000000000000
+      internalID: -5935295496067070766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 150
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c26a5a709fbf12c0800000000000000
+      internalID: -4458634478824561976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 149
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d687054fa7a4540800000000000000
+      internalID: 4992938326634294617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 149
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f519fe1b3daa160800000000000000
+      internalID: 7037670128901775174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 148
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026b4f6ffe3dbf4b0800000000000000
+      internalID: -5405493900134271456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 149
+        width: 112
+        height: 48
+      alignment: 9
+      pivot: {x: 0.78702873, y: 0.47519526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fbfcdef26fcc950800000000000000
+      internalID: 6470817450338271047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 94
+        width: 112
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7905723, y: 0.52429885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846bda4d84536c380800000000000000
+      internalID: -8951408622430210488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 88
+        width: 110
+        height: 58
+      alignment: 9
+      pivot: {x: 0.8211115, y: 0.52052844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024785e40ab3460e0800000000000000
+      internalID: -2277629951847402464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 93
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcba3425f83dfb50800000000000000
+      internalID: 6628516852085210331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 93
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0332d5b73f28d3170800000000000000
+      internalID: 8159822082123572016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 92
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47168322d2ea6f4e0800000000000000
+      internalID: -1948178279920279180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 92
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc332d62d5e5c400800000000000000
+      internalID: 343933638500629758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 26
+        width: 99
+        height: 44
+      alignment: 9
+      pivot: {x: 0.82471967, y: 0.57215995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a677dc058eb31d850800000000000000
+      internalID: 6399962414444279658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 15
+        width: 88
+        height: 70
+      alignment: 9
+      pivot: {x: 0.75255984, y: 0.51700944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6bc2ca105009500800000000000000
+      internalID: 400825871577691874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 81
+        height: 69
+      alignment: 9
+      pivot: {x: 0.7253881, y: 0.5230078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f078ff7f12a6fb10800000000000000
+      internalID: 2014976139469549811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 22
+        width: 79
+        height: 64
+      alignment: 9
+      pivot: {x: 0.72607034, y: 0.46899402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c516df4df0159d0800000000000000
+      internalID: -2787429286907126704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mona and Angella_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 24
+        width: 79
+        height: 58
+      alignment: 9
+      pivot: {x: 0.7009513, y: 0.47947207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39191424c675cf910800000000000000
+      internalID: 1872467667558961555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mona and Angella_23: 400825871577691874
+      Mona and Angella_7: 247032610485749774
+      Mona and Angella_20: -1948178279920279180
+      Mona and Angella_11: -4458634478824561976
+      Mona and Angella_3: 8097527139699273288
+      Mona and Angella_12: 4992938326634294617
+      Mona and Angella_5: 8979856567555118506
+      Mona and Angella_14: -5405493900134271456
+      Mona and Angella_21: 343933638500629758
+      Mona and Angella_1: 7645395977267000101
+      Mona and Angella_6: 4193025007187971930
+      Mona and Angella_16: -8951408622430210488
+      Mona and Angella_4: 4585192044835059128
+      Mona and Angella_17: -2277629951847402464
+      Mona and Angella_8: 7613398146230973112
+      Mona and Angella_18: 6628516852085210331
+      Mona and Angella_24: 2014976139469549811
+      Mona and Angella_19: 8159822082123572016
+      Mona and Angella_0: -2163108115320129517
+      Mona and Angella_13: 7037670128901775174
+      Mona and Angella_22: 6399962414444279658
+      Mona and Angella_10: -5935295496067070766
+      Mona and Angella_25: -2787429286907126704
+      Mona and Angella_9: -8857290343910202092
+      Mona and Angella_26: 1872467667558961555
+      Mona and Angella_2: 8882762872814600186
+      Mona and Angella_15: 6470817450338271047
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

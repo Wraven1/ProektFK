@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: 508e6f9cd5df67841a1485e409c9d688
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6407082764527370454
+    second: Knopyshki_0
+  - first:
+      213: 2990508926362713278
+    second: Knopyshki_1
+  - first:
+      213: 5591997924870969431
+    second: Knopyshki_2
+  - first:
+      213: -1686617635884400798
+    second: Knopyshki_3
+  - first:
+      213: 3630847265206355161
+    second: Knopyshki_4
+  - first:
+      213: 6459135968176870234
+    second: Knopyshki_5
+  - first:
+      213: 3372874839315985004
+    second: Knopyshki_6
+  - first:
+      213: 5640202652794518819
+    second: Knopyshki_7
+  - first:
+      213: 7805843893439444508
+    second: Knopyshki_8
+  - first:
+      213: 2409668112594696495
+    second: Knopyshki_9
+  - first:
+      213: -4031427047700459606
+    second: Knopyshki_10
+  - first:
+      213: -8382214680998450353
+    second: Knopyshki_11
+  - first:
+      213: -7532888426239738745
+    second: Knopyshki_12
+  - first:
+      213: 9047947930170154500
+    second: Knopyshki_13
+  - first:
+      213: 5591513296532935383
+    second: Knopyshki_14
+  - first:
+      213: 8543438530878837038
+    second: Knopyshki_15
+  - first:
+      213: 9214039348775940674
+    second: Knopyshki_16
+  - first:
+      213: -2586729336485484934
+    second: Knopyshki_17
+  - first:
+      213: 8510635498811481762
+    second: Knopyshki_18
+  - first:
+      213: -6215658445923017914
+    second: Knopyshki_19
+  - first:
+      213: -7200746480170696409
+    second: Knopyshki_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knopyshki_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 220
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d08e2204d78ae850800000000000000
+      internalID: 6407082764527370454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 218
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcfb7d260c608920800000000000000
+      internalID: 2990508926362713278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 218
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758d7a82c74ca9d40800000000000000
+      internalID: 5591997924870969431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 218
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f733d323ee798e0800000000000000
+      internalID: -1686617635884400798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 213
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4c254c95c536230800000000000000
+      internalID: 3630847265206355161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 219
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53912be0f573a950800000000000000
+      internalID: 6459135968176870234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 162
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62384dcbcbdece20800000000000000
+      internalID: 3372874839315985004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 155
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d780dfd66064e40800000000000000
+      internalID: 5640202652794518819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 155
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c163c98f9ade35c60800000000000000
+      internalID: 7805843893439444508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 144
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29fac5a16cd07120800000000000000
+      internalID: 2409668112594696495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 110
+        width: 116
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf89e3a57e7d08c0800000000000000
+      internalID: -4031427047700459606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 58
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4be50498246cab80800000000000000
+      internalID: -8382214680998450353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 58
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c345523edc57790800000000000000
+      internalID: -7532888426239738745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 56
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ed50454b4c09d70800000000000000
+      internalID: 9047947930170154500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 58
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d218b4d7bb099d40800000000000000
+      internalID: 5591513296532935383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 58
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e211b692414609670800000000000000
+      internalID: 8543438530878837038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242f24a38f7dedf70800000000000000
+      internalID: 9214039348775940674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7663b0af571a1cd0800000000000000
+      internalID: -2586729336485484934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aedc7715e9db1670800000000000000
+      internalID: 8510635498811481762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b1a9d439b8db9a0800000000000000
+      internalID: -6215658445923017914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knopyshki_20
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72108cb3a3fc11c90800000000000000
+      internalID: -7200746480170696409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knopyshki_5: 6459135968176870234
+      Knopyshki_8: 7805843893439444508
+      Knopyshki_9: 2409668112594696495
+      Knopyshki_20: -7200746480170696409
+      Knopyshki_10: -4031427047700459606
+      Knopyshki_4: 3630847265206355161
+      Knopyshki_15: 8543438530878837038
+      Knopyshki_17: -2586729336485484934
+      Knopyshki_6: 3372874839315985004
+      Knopyshki_12: -7532888426239738745
+      Knopyshki_19: -6215658445923017914
+      Knopyshki_2: 5591997924870969431
+      Knopyshki_3: -1686617635884400798
+      Knopyshki_13: 9047947930170154500
+      Knopyshki_18: 8510635498811481762
+      Knopyshki_0: 6407082764527370454
+      Knopyshki_1: 2990508926362713278
+      Knopyshki_16: 9214039348775940674
+      Knopyshki_11: -8382214680998450353
+      Knopyshki_14: 5591513296532935383
+      Knopyshki_7: 5640202652794518819
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

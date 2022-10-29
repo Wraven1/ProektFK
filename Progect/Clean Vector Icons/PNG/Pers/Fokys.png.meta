@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: d3e4afdb1fc486e4f805f53c28052c9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8936805001329971869
+    second: Fokys_0
+  - first:
+      213: 5254243118271852617
+    second: Fokys_1
+  - first:
+      213: 4917499767742456147
+    second: Fokys_2
+  - first:
+      213: -3016791079570267191
+    second: Fokys_3
+  - first:
+      213: 601112088488436239
+    second: Fokys_4
+  - first:
+      213: 8874754724824588596
+    second: Fokys_5
+  - first:
+      213: 8100820583227358930
+    second: Fokys_6
+  - first:
+      213: -2716389830914054638
+    second: Fokys_7
+  - first:
+      213: -1115511289819874691
+    second: Fokys_8
+  - first:
+      213: 5265111640808981128
+    second: Fokys_9
+  - first:
+      213: -3251881166676747248
+    second: Fokys_10
+  - first:
+      213: 4075314628832315479
+    second: Fokys_11
+  - first:
+      213: -3283386814026528225
+    second: Fokys_12
+  - first:
+      213: -3070540070948914178
+    second: Fokys_13
+  - first:
+      213: -481970926019225654
+    second: Fokys_14
+  - first:
+      213: -4208403255222422077
+    second: Fokys_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fokys_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 54
+        height: 53
+      alignment: 9
+      pivot: {x: 0.49475655, y: 0.4851599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36deac453371af380800000000000000
+      internalID: -8936805001329971869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 11
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94072242742dae840800000000000000
+      internalID: 5254243118271852617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 11
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351ea571cf77e3440800000000000000
+      internalID: 4917499767742456147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 10
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3a5ac2f743226d0800000000000000
+      internalID: -3016791079570267191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 9
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02eb887244975800800000000000000
+      internalID: 601112088488436239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 9
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431a3e9d666792b70800000000000000
+      internalID: 8874754724824588596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 8
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de70748665eb6070800000000000000
+      internalID: 8100820583227358930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 87
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21662e047d17d4ad0800000000000000
+      internalID: -2716389830914054638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 87
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a39536468e480f0800000000000000
+      internalID: -1115511289819874691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 85
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882813d342f611940800000000000000
+      internalID: 5265111640808981128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 84
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c1370ee4ffed2d0800000000000000
+      internalID: -3251881166676747248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 210
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758c08f101d6e8830800000000000000
+      internalID: 4075314628832315479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 210
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a4fb9b6111f62d0800000000000000
+      internalID: -3283386814026528225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 210
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbbc7ae2104365d0800000000000000
+      internalID: -3070540070948914178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 210
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7de821ff1bf49f0800000000000000
+      internalID: -481970926019225654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fokys_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 210
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5bed4598fb895c0800000000000000
+      internalID: -4208403255222422077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fokys_15: -4208403255222422077
+      Fokys_14: -481970926019225654
+      Fokys_6: 8100820583227358930
+      Fokys_8: -1115511289819874691
+      Fokys_9: 5265111640808981128
+      Fokys_13: -3070540070948914178
+      Fokys_3: -3016791079570267191
+      Fokys_0: -8936805001329971869
+      Fokys_7: -2716389830914054638
+      Fokys_1: 5254243118271852617
+      Fokys_2: 4917499767742456147
+      Fokys_12: -3283386814026528225
+      Fokys_10: -3251881166676747248
+      Fokys_11: 4075314628832315479
+      Fokys_4: 601112088488436239
+      Fokys_5: 8874754724824588596
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

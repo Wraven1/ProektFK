@@ -1,0 +1,796 @@
+fileFormatVersion: 2
+guid: d738d69384800f4449c0403df5f616b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1746850220974474512
+    second: Boolad_0
+  - first:
+      213: -2948659187468249098
+    second: Boolad_1
+  - first:
+      213: -8228179797873536115
+    second: Boolad_2
+  - first:
+      213: -705908295801127489
+    second: Boolad_3
+  - first:
+      213: -299639429092678696
+    second: Boolad_4
+  - first:
+      213: 136789835920341709
+    second: Boolad_5
+  - first:
+      213: 7089357905085191883
+    second: Boolad_6
+  - first:
+      213: -4951147057119786164
+    second: Boolad_7
+  - first:
+      213: 1588000880964363708
+    second: Boolad_8
+  - first:
+      213: 1448550363118304967
+    second: Boolad_9
+  - first:
+      213: 1831919218959908363
+    second: Boolad_10
+  - first:
+      213: 6939765532734608154
+    second: Boolad_11
+  - first:
+      213: -4822766133337322530
+    second: Boolad_12
+  - first:
+      213: -2988241013884121315
+    second: Boolad_13
+  - first:
+      213: 8289534317387838197
+    second: Boolad_14
+  - first:
+      213: 8039522214766210028
+    second: Boolad_15
+  - first:
+      213: -5788647594678506924
+    second: Boolad_16
+  - first:
+      213: 5314300474532188818
+    second: Boolad_17
+  - first:
+      213: 2753892388707858980
+    second: Boolad_18
+  - first:
+      213: 6524064313569828542
+    second: Boolad_19
+  - first:
+      213: 2358101307568599455
+    second: Boolad_20
+  - first:
+      213: 3032521763575972434
+    second: Boolad_21
+  - first:
+      213: 2657406462029977631
+    second: Boolad_22
+  - first:
+      213: 3613588876835691998
+    second: Boolad_23
+  - first:
+      213: -4783097151541467178
+    second: Boolad_24
+  - first:
+      213: 1716015038488258173
+    second: Boolad_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boolad_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.48333958, y: 0.54052496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0150ff0550f0e3810800000000000000
+      internalID: 1746850220974474512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 47
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.60904914, y: 0.4515336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7534777124417d0800000000000000
+      internalID: -2948659187468249098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.55831116, y: 0.51666045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83d3bf8112afcd80800000000000000
+      internalID: -8228179797873536115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 138
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5304231, y: 0.5413634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdb5c0252c1436f0800000000000000
+      internalID: -705908295801127489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 176
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: 0.37649783, y: 0.5140353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3ea3cd68777dbf0800000000000000
+      internalID: -299639429092678696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 201
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0.47587848, y: 0.48245794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca7aea81a9f5e100800000000000000
+      internalID: 136789835920341709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 201
+        width: 26
+        height: 22
+      alignment: 9
+      pivot: {x: 0.28624624, y: 0.53157806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6d5322475726260800000000000000
+      internalID: 7089357905085191883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 176
+        width: 33
+        height: 22
+      alignment: 9
+      pivot: {x: 0.22399105, y: 0.5210523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b87addbfdf94bb0800000000000000
+      internalID: -4951147057119786164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 225
+        width: 44
+        height: 22
+      alignment: 9
+      pivot: {x: 0.17019273, y: 0.5245611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb563ec3366b90610800000000000000
+      internalID: 1588000880964363708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2
+        width: 49
+        height: 22
+      alignment: 9
+      pivot: {x: 0.15957673, y: 0.5047091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cefde861e84a1410800000000000000
+      internalID: 1448550363118304967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 31
+        width: 55
+        height: 22
+      alignment: 9
+      pivot: {x: 0.14208457, y: 0.5141279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ef05fd2d84c6910800000000000000
+      internalID: 1831919218959908363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4
+        width: 63
+        height: 15
+      alignment: 9
+      pivot: {x: 0.16785249, y: 0.5595677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13552bcbfffe4060800000000000000
+      internalID: 6939765532734608154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 214
+        width: 99
+        height: 46
+      alignment: 9
+      pivot: {x: 0.7998397, y: 0.5769016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb05abf0c7121db0800000000000000
+      internalID: -4822766133337322530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 164
+        width: 99
+        height: 45
+      alignment: 9
+      pivot: {x: 0.8017296, y: 0.5882721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f0f2851a2a786d0800000000000000
+      internalID: -2988241013884121315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 117
+        width: 99
+        height: 44
+      alignment: 9
+      pivot: {x: 0.80012465, y: 0.57222265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2ff45ba875a0370800000000000000
+      internalID: 8289534317387838197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 69
+        width: 101
+        height: 44
+      alignment: 9
+      pivot: {x: 0.80114657, y: 0.5772594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb600febde129f60800000000000000
+      internalID: 8039522214766210028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 22
+        width: 104
+        height: 45
+      alignment: 9
+      pivot: {x: 0.80818105, y: 0.5745366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aa445aea79aafa0800000000000000
+      internalID: -5788647594678506924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 214
+        width: 104
+        height: 44
+      alignment: 9
+      pivot: {x: 0.805292, y: 0.58117986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2925e2e002030c940800000000000000
+      internalID: 5314300474532188818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 146
+        width: 58
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3435181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a759a698ac73620800000000000000
+      internalID: 2753892388707858980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 67
+        width: 71
+        height: 65
+      alignment: 9
+      pivot: {x: 0.4928303, y: 0.3893423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebed12e5de12a8a50800000000000000
+      internalID: 6524064313569828542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 186
+        width: 77
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4707927, y: 0.46183553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91b20e35a8a9b020800000000000000
+      internalID: 2358101307568599455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_21
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 111
+        width: 74
+        height: 72
+      alignment: 9
+      pivot: {x: 0.48766926, y: 0.41973475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252469b1a7ea51a20800000000000000
+      internalID: 3032521763575972434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 33
+        width: 76
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48780942, y: 0.42451292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18df11091101e420800000000000000
+      internalID: 2657406462029977631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 37
+        width: 77
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4813712, y: 0.42246452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd181810fb062230800000000000000
+      internalID: 3613588876835691998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_24
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 111
+        width: 80
+        height: 75
+      alignment: 9
+      pivot: {x: 0.48027688, y: 0.41393554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7203c8b760f9db0800000000000000
+      internalID: -4783097151541467178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boolad_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 187
+        width: 79
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48729, y: 0.42246452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76225ee59280d710800000000000000
+      internalID: 1716015038488258173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Boolad_20: 2358101307568599455
+      Boolad_2: -8228179797873536115
+      Boolad_6: 7089357905085191883
+      Boolad_22: 2657406462029977631
+      Boolad_14: 8289534317387838197
+      Boolad_13: -2988241013884121315
+      Boolad_11: 6939765532734608154
+      Boolad_23: 3613588876835691998
+      Boolad_4: -299639429092678696
+      Boolad_7: -4951147057119786164
+      Boolad_10: 1831919218959908363
+      Boolad_0: 1746850220974474512
+      Boolad_24: -4783097151541467178
+      Boolad_12: -4822766133337322530
+      Boolad_15: 8039522214766210028
+      Boolad_5: 136789835920341709
+      Boolad_9: 1448550363118304967
+      Boolad_8: 1588000880964363708
+      Boolad_16: -5788647594678506924
+      Boolad_25: 1716015038488258173
+      Boolad_17: 5314300474532188818
+      Boolad_1: -2948659187468249098
+      Boolad_18: 2753892388707858980
+      Boolad_19: 6524064313569828542
+      Boolad_3: -705908295801127489
+      Boolad_21: 3032521763575972434
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

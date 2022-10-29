@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: 5a8454e5c68aad64696676b1dc85ad8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6312019656295251461
+    second: Finalochka_0
+  - first:
+      213: 2191314450016947520
+    second: Finalochka_1
+  - first:
+      213: 2154636351062153912
+    second: Finalochka_2
+  - first:
+      213: 6074003809202238280
+    second: Finalochka_3
+  - first:
+      213: -8610053906960853208
+    second: Finalochka_4
+  - first:
+      213: 3359144313378906084
+    second: Finalochka_5
+  - first:
+      213: 6008176658818285176
+    second: Finalochka_6
+  - first:
+      213: -2360413663838028560
+    second: Finalochka_7
+  - first:
+      213: 7122449915328349802
+    second: Finalochka_8
+  - first:
+      213: -5693241285926518099
+    second: Finalochka_9
+  - first:
+      213: -9038136640473356102
+    second: Finalochka_10
+  - first:
+      213: -937847558785953852
+    second: Finalochka_11
+  - first:
+      213: -5839351749427145423
+    second: Finalochka_12
+  - first:
+      213: -3978276755339748279
+    second: Finalochka_13
+  - first:
+      213: -2877065343107699985
+    second: Finalochka_14
+  - first:
+      213: 190708742394271617
+    second: Finalochka_15
+  - first:
+      213: 1742224462054525500
+    second: Finalochka_16
+  - first:
+      213: -4157646743356428438
+    second: Finalochka_17
+  - first:
+      213: -4042390265348773077
+    second: Finalochka_18
+  - first:
+      213: 5389421169913059787
+    second: Finalochka_19
+  - first:
+      213: -6539105425328214680
+    second: Finalochka_20
+  - first:
+      213: 8336508683265162707
+    second: Finalochka_21
+  - first:
+      213: 175213881635440181
+    second: Finalochka_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Finalochka_0
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 213
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4771549, y: 0.31506628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ef2c45f6cc89750800000000000000
+      internalID: 6312019656295251461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 213
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.46953988, y: 0.31506628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc078d1ec196e10800000000000000
+      internalID: 2191314450016947520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 213
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.46573234, y: 0.31242433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba1435785ec6ed10800000000000000
+      internalID: 2154636351062153912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 213
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4733474, y: 0.31506628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8437ed378423b4450800000000000000
+      internalID: 6074003809202238280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 213
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.46953988, y: 0.31242433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82752a2f691f28880800000000000000
+      internalID: -8610053906960853208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 213
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4733474, y: 0.3097824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef193c94f31e9e20800000000000000
+      internalID: 3359144313378906084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 213
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4733474, y: 0.31242433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e38a8a6d4516350800000000000000
+      internalID: 6008176658818285176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 213
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47334772, y: 0.31391048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcb4fb57402e3fd0800000000000000
+      internalID: -2360413663838028560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 91
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6648ad267608d260800000000000000
+      internalID: 7122449915328349802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5867287, y: 0.52691597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da203cbe63b8df0b0800000000000000
+      internalID: -5693241285926518099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 52
+        height: 72
+      alignment: 9
+      pivot: {x: 0.62733227, y: 0.5336449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8a4219c96129280800000000000000
+      internalID: -9038136640473356102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 50
+        height: 74
+      alignment: 9
+      pivot: {x: 0.61950624, y: 0.5174589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf881d3d981cf2f0800000000000000
+      internalID: -937847558785953852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 78
+        width: 52
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6225175, y: 0.5194949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135d6d8a58476fea0800000000000000
+      internalID: -5839351749427145423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_13
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 77
+        width: 52
+        height: 75
+      alignment: 9
+      pivot: {x: 0.6054218, y: 0.5395096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cd7cb6e525ac8c0800000000000000
+      internalID: -3978276755339748279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 263
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea6a74505c9218d0800000000000000
+      internalID: -2877065343107699985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 157
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4697921, y: 0.31964335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187d8fd379885a200800000000000000
+      internalID: 190708742394271617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_16
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 157
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.46914673, y: 0.31523037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a81c3eaef9d2810800000000000000
+      internalID: 1742224462054525500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 157
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47195166, y: 0.31324354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f2ea8a0521d46c0800000000000000
+      internalID: -4157646743356428438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 157
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4775615, y: 0.31523037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ba36e987b86e7c0800000000000000
+      internalID: -4042390265348773077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 157
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47169405, y: 0.31590462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc953a9eff11bca40800000000000000
+      internalID: 5389421169913059787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 156
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47169405, y: 0.31772742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d6b76e24e6045a0800000000000000
+      internalID: -6539105425328214680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 155
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.46912092, y: 0.32137266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddbafc8a7a31b370800000000000000
+      internalID: 8336508683265162707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finalochka_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 155
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.46912065, y: 0.3195499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5360996d81c7e6200800000000000000
+      internalID: 175213881635440181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Finalochka_10: -9038136640473356102
+      Finalochka_13: -3978276755339748279
+      Finalochka_17: -4157646743356428438
+      Finalochka_8: 7122449915328349802
+      Finalochka_11: -937847558785953852
+      Finalochka_4: -8610053906960853208
+      Finalochka_7: -2360413663838028560
+      Finalochka_18: -4042390265348773077
+      Finalochka_2: 2154636351062153912
+      Finalochka_3: 6074003809202238280
+      Finalochka_16: 1742224462054525500
+      Finalochka_20: -6539105425328214680
+      Finalochka_9: -5693241285926518099
+      Finalochka_12: -5839351749427145423
+      Finalochka_21: 8336508683265162707
+      Finalochka_15: 190708742394271617
+      Finalochka_0: 6312019656295251461
+      Finalochka_5: 3359144313378906084
+      Finalochka_19: 5389421169913059787
+      Finalochka_14: -2877065343107699985
+      Finalochka_22: 175213881635440181
+      Finalochka_6: 6008176658818285176
+      Finalochka_1: 2191314450016947520
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

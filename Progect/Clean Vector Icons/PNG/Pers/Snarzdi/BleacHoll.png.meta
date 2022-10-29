@@ -1,0 +1,471 @@
+fileFormatVersion: 2
+guid: 98996e7dd3e72f24dafef41c3b948e8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2091311472175728387
+    second: BleacHoll_0
+  - first:
+      213: -5241883466546359042
+    second: BleacHoll_1
+  - first:
+      213: 5242430425087358891
+    second: BleacHoll_2
+  - first:
+      213: 6345139226175153398
+    second: BleacHoll_3
+  - first:
+      213: -4687396200017925087
+    second: BleacHoll_4
+  - first:
+      213: 1621397782827897109
+    second: BleacHoll_5
+  - first:
+      213: -4330825685489456792
+    second: BleacHoll_6
+  - first:
+      213: -1033866758818651749
+    second: BleacHoll_7
+  - first:
+      213: -5922711462420932625
+    second: BleacHoll_8
+  - first:
+      213: -65448886940799478
+    second: BleacHoll_9
+  - first:
+      213: 1880003765532155224
+    second: BleacHoll_10
+  - first:
+      213: 5709726711166039457
+    second: BleacHoll_11
+  - first:
+      213: 6460522665357564219
+    second: BleacHoll_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BleacHoll_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 197
+        width: 86
+        height: 51
+      alignment: 9
+      pivot: {x: 0.505049, y: 0.47020108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8344adb4b2af2e0800000000000000
+      internalID: -2091311472175728387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BleacHoll_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 195
+        width: 86
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5075735, y: 0.5039476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4d28682c61147b0800000000000000
+      internalID: -5241883466546359042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BleacHoll_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 194
+        width: 93
+        height: 56
+      alignment: 9
+      pivot: {x: 0.46965176, y: 0.5193847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7380f22bad0c840800000000000000
+      internalID: 5242430425087358891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BleacHoll_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 197
+        width: 90
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4855262, y: 0.47912452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4219a12867e0850800000000000000
+      internalID: 6345139226175153398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BleacHoll_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 192
+        width: 97
+        height: 56
+      alignment: 9
+      pivot: {x: 0.44628277, y: 0.5271383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c6a60bdf503feb0800000000000000
+      internalID: -4687396200017925087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BleacHoll_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 105
+        width: 110
+        height: 66
+      alignment: 9
+      pivot: {x: 0.39590007, y: 0.5851133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511101561bc508610800000000000000
+      internalID: 1621397782827897109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BleacHoll_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 97
+        width: 115
+        height: 74
+      alignment: 9
+      pivot: {x: 0.37671322, y: 0.6277295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86963481cf0d5e3c0800000000000000
+      internalID: -4330825685489456792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BleacHoll_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 95
+        width: 116
+        height: 82
+      alignment: 9
+      pivot: {x: 0.37505972, y: 0.64600617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91a78719a7f6a1f0800000000000000
+      internalID: -1033866758818651749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BleacHoll_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 93
+        width: 123
+        height: 82
+      alignment: 9
+      pivot: {x: 0.35399374, y: 0.6652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe714470e4d4ecda0800000000000000
+      internalID: -5922711462420932625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BleacHoll_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 122
+        height: 83
+      alignment: 9
+      pivot: {x: 0.35397446, y: 0.6430933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ee2f6859a771ff0800000000000000
+      internalID: -65448886940799478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BleacHoll_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 10
+        width: 127
+        height: 86
+      alignment: 9
+      pivot: {x: 0.34198743, y: 0.6404828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dd0fcc67d171a10800000000000000
+      internalID: 1880003765532155224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BleacHoll_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3
+        width: 124
+        height: 89
+      alignment: 9
+      pivot: {x: 0.3513757, y: 0.60813767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a57c9f31360d3f40800000000000000
+      internalID: 5709726711166039457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BleacHoll_12
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1
+        width: 126
+        height: 90
+      alignment: 9
+      pivot: {x: 0.34395295, y: 0.59709597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b395ff3822368a950800000000000000
+      internalID: 6460522665357564219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BleacHoll_5: 1621397782827897109
+      BleacHoll_2: 5242430425087358891
+      BleacHoll_12: 6460522665357564219
+      BleacHoll_11: 5709726711166039457
+      BleacHoll_6: -4330825685489456792
+      BleacHoll_8: -5922711462420932625
+      BleacHoll_9: -65448886940799478
+      BleacHoll_0: -2091311472175728387
+      BleacHoll_7: -1033866758818651749
+      BleacHoll_4: -4687396200017925087
+      BleacHoll_3: 6345139226175153398
+      BleacHoll_10: 1880003765532155224
+      BleacHoll_1: -5241883466546359042
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

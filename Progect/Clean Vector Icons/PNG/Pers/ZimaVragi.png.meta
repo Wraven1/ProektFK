@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: c810c8932e24f024394ddedb6e8d635c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8256325246097025892
+    second: ZimaVragi_0
+  - first:
+      213: 8496151031179851202
+    second: ZimaVragi_1
+  - first:
+      213: 6585975337378745121
+    second: ZimaVragi_2
+  - first:
+      213: -7797579987612248151
+    second: ZimaVragi_3
+  - first:
+      213: -8871645917604282838
+    second: ZimaVragi_4
+  - first:
+      213: 4860858944610479401
+    second: ZimaVragi_5
+  - first:
+      213: -3204219628289430848
+    second: ZimaVragi_6
+  - first:
+      213: 1595972295655705369
+    second: ZimaVragi_7
+  - first:
+      213: -4141367843300085302
+    second: ZimaVragi_8
+  - first:
+      213: -6696472561401534384
+    second: ZimaVragi_9
+  - first:
+      213: 1859952954509888419
+    second: ZimaVragi_10
+  - first:
+      213: 8968806313244498486
+    second: ZimaVragi_11
+  - first:
+      213: 4685201889260988530
+    second: ZimaVragi_12
+  - first:
+      213: -8612985442025455155
+    second: ZimaVragi_13
+  - first:
+      213: 6739517375208457416
+    second: ZimaVragi_14
+  - first:
+      213: 1780795901311183444
+    second: ZimaVragi_15
+  - first:
+      213: 8491206432306130374
+    second: ZimaVragi_16
+  - first:
+      213: 7717263708269949687
+    second: ZimaVragi_17
+  - first:
+      213: 4362639902385816936
+    second: ZimaVragi_18
+  - first:
+      213: 226966018214495694
+    second: ZimaVragi_19
+  - first:
+      213: 5296454523814914240
+    second: ZimaVragi_20
+  - first:
+      213: 3719695311605341886
+    second: ZimaVragi_21
+  - first:
+      213: 2856316634488094050
+    second: ZimaVragi_22
+  - first:
+      213: 2327620353670359644
+    second: ZimaVragi_23
+  - first:
+      213: -8200890262941198767
+    second: ZimaVragi_24
+  - first:
+      213: -7516566826538119362
+    second: ZimaVragi_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZimaVragi_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 184
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c941c4cbee3ab6d80800000000000000
+      internalID: -8256325246097025892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 230
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c53b8b295468e570800000000000000
+      internalID: 8496151031179851202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 230
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b81f3eca5166b50800000000000000
+      internalID: 6585975337378745121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 184
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a75daa805e69c390800000000000000
+      internalID: -7797579987612248151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 230
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ef62cba0591e480800000000000000
+      internalID: -8871645917604282838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 185
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92da9c8c47d357340800000000000000
+      internalID: 4860858944610479401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 151
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca697989335883d0800000000000000
+      internalID: -3204219628289430848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 151
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b4ce9d858062610800000000000000
+      internalID: 1595972295655705369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 151
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac17fdf63e7e686c0800000000000000
+      internalID: -4141367843300085302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 160
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e2815fa95113a0800000000000000
+      internalID: -6696472561401534384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 156
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab00809b51efc910800000000000000
+      internalID: 1859952954509888419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a1838b2d9977c70800000000000000
+      internalID: 8968806313244498486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_12
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 143
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278e3668b4e250140800000000000000
+      internalID: 4685201889260988530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 156
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc14670cf57887880800000000000000
+      internalID: -8612985442025455155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 130
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c48fd26853978d50800000000000000
+      internalID: 6739517375208457416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 148
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aef1bef68a6b810800000000000000
+      internalID: 1780795901311183444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 94
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd6e180343d6d570800000000000000
+      internalID: 8491206432306130374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2b171747a391b60800000000000000
+      internalID: 7717263708269949687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865c6a080e53b8c30800000000000000
+      internalID: 4362639902385816936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec582cb1468562300800000000000000
+      internalID: 226966018214495694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8affcd359c08940800000000000000
+      internalID: 5296454523814914240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 69
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe1ce89d230f9330800000000000000
+      internalID: 3719695311605341886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 69
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26db3bc78dca3a720800000000000000
+      internalID: 2856316634488094050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 69
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aad70216e5d4020800000000000000
+      internalID: 2327620353670359644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 138
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1561e6b81c5903e80800000000000000
+      internalID: -8200890262941198767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZimaVragi_25
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 138
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fc5b5bb4acfa790800000000000000
+      internalID: -7516566826538119362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ZimaVragi_24: -8200890262941198767
+      ZimaVragi_7: 1595972295655705369
+      ZimaVragi_1: 8496151031179851202
+      ZimaVragi_15: 1780795901311183444
+      ZimaVragi_23: 2327620353670359644
+      ZimaVragi_12: 4685201889260988530
+      ZimaVragi_19: 226966018214495694
+      ZimaVragi_20: 5296454523814914240
+      ZimaVragi_25: -7516566826538119362
+      ZimaVragi_11: 8968806313244498486
+      ZimaVragi_21: 3719695311605341886
+      ZimaVragi_2: 6585975337378745121
+      ZimaVragi_3: -7797579987612248151
+      ZimaVragi_4: -8871645917604282838
+      ZimaVragi_9: -6696472561401534384
+      ZimaVragi_10: 1859952954509888419
+      ZimaVragi_8: -4141367843300085302
+      ZimaVragi_16: 8491206432306130374
+      ZimaVragi_5: 4860858944610479401
+      ZimaVragi_0: -8256325246097025892
+      ZimaVragi_6: -3204219628289430848
+      ZimaVragi_17: 7717263708269949687
+      ZimaVragi_14: 6739517375208457416
+      ZimaVragi_13: -8612985442025455155
+      ZimaVragi_22: 2856316634488094050
+      ZimaVragi_18: 4362639902385816936
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
